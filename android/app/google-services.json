@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311894937200",
+    "project_id": "day-tracker-2a9a5",
+    "storage_bucket": "day-tracker-2a9a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311894937200:android:042d08d1be70062ec0eeb5",
+        "android_client_info": {
+          "package_name": "com.example.day_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311894937200-6u0330i3ctakl260ug12kudqrubjd3dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-reHV7YWhxUbj3KikY6vlI1vrx7j8VdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311894937200-6u0330i3ctakl260ug12kudqrubjd3dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
